@@ -5,6 +5,7 @@ public class HelloWorld
       {       
          System.out.println("Hello gist @ GitHub!");   
          System.out.println("Welcome to git hub !!");
+         System.out.println("Welcome to git hub.... !!");
       }
 } 
 
